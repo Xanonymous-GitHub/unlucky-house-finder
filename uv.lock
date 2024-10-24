@@ -1118,9 +1118,9 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "fastapi", extras = ["all"], specifier = ">=0" },
-    { name = "google-generativeai", specifier = ">=0.8.3" },
-    { name = "scrapy", specifier = ">=2.11.2" },
+    { name = "fastapi", extras = ["all"] },
+    { name = "google-generativeai" },
+    { name = "scrapy" },
 ]
 
 [[package]]
