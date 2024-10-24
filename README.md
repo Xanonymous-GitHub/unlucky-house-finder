@@ -1,3 +1,3 @@
-# Python project
+# Unlucky House Finder
 
-###### A general python project template
+###### Find unlucky houses (凶宅) in Taiwan in a better way.
